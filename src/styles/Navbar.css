@@ -1,0 +1,35 @@
+.navbar {
+	box-shadow: none;
+}
+
+.logo {
+	margin-right: 16px;
+	size: 24px;
+}
+
+.title {
+	flex-grow: 1;
+	display: flex;
+	align-items: center;
+}
+
+.titleText {
+	font-size: 24px;
+	color: #0161b0;
+}
+
+.buttonsWrapper {
+	display: flex;
+}
+
+.button {
+	margin: 0 8px;
+	/* width: 24px; */
+}
+
+.separator {
+	height: 30px;
+	width: 1px;
+	background-color: black;
+	margin: 0 16px;
+}
